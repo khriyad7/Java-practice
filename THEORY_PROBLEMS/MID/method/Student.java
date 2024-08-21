@@ -1,7 +1,7 @@
 public class Student {
     String name;
     int id;
-    static String University = "NUBT";
+    static String University = "NUBTk";
 
     Student(String name, int id) 
     {
